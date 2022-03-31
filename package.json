@@ -1,0 +1,12 @@
+{
+  "name": "pf-sde-master",
+  "version": "1.0.0",
+  "description": "Assignment to test fundamental knowledge for Prism Force. This can be written in any language or framework.",
+  "main": "solution/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node solution/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
